@@ -1,0 +1,2 @@
+# Image_and_Signal_Processing_ECG_Heart_Beat_Detection
+Detect heartbeats on ECG signals! Implement a QRS (R-peak) detection algorithm, evaluate it on the MIT-BIH Arrhythmia Database, and measure its accuracy. Further reading:      Electrocardiography (Wikipedia)     Pan, Tompkins: A Real-Time QRS Detection Algorithm, IEEE Transactions on Biomedical Engineering (1985)  Test material:      MIT-BIH Arrhythmia Database (PhysioNet)
